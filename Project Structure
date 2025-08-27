@@ -1,0 +1,5 @@
+quantflow/
+├── quantflow.ipynb          # Main Jupyter notebook
+├── RELIANCE.NS_historical.csv  # Historical data (generated)
+├── requirements.txt         # Python dependencies
+└── README.md               # This file
